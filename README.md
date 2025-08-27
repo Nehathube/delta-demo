@@ -4,4 +4,4 @@ This is Demo for Git and Git-hub class.
 Neha Thube
 
 # student 
-Sudarshan kale and me
+Neha
